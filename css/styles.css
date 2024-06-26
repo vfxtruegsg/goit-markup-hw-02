@@ -1,0 +1,22 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.portfolio-img {
+    width: 360px;
+    height: 360px;
+}
+
+a:hover, button:hover, a:focus, button:focus {
+    color: #404bbf;
+}
+
+.header-contacts:hover, .header-contacts:focus {
+    color: #404bbf; 
+}
+
+
